@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "strict": true,
+    "allowJs": false,
+    "module": "esnext",
+    "target": "es5",
+    "moduleResolution": "node",
+    "lib": ["DOM", "ES6"]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
