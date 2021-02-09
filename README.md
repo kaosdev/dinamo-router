@@ -4,6 +4,8 @@ This is an example project for a client routing system written in typescript.
 
 It support dynamic base urls, and typed parameters.
 
+[Read an explanation](https://www.elialotti.com/en/blog/building-an-angular-like-router-but-better)
+
 ## Example
 ```typescript
 // define a dynamic base url
